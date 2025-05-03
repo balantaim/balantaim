@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Martin Atanasov, a Java backend developer</h1>
+<h1 align="center">Hello, I'm Martin Atanasov</h1>
 
 ## How I started
 

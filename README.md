@@ -4,7 +4,10 @@
 ## How I started
 
 <p>
-  I have more than 10 year+ experience with hardware (fixing my PC at my home). As a student I start growing my programming skills since 2019. I am skilled in programming with Java, particularly in backend development. I have experience with desktop, mobile, and web applications. I primarily use the Spring framework and, when necessary, frontend templates for Java, such as Thymeleaf and Vaadin Flow. Other things I enjoy are using Linux OS for increased productivity in application development and AWS as a cloud platform for hosting. Everyday I'm learning something new and continuously improve my skills, even with very limited time. My future goals include: Microservices, JWT token, Spring AI.
+  I have more than 10 year+ experience with hardware (fixing my PC at my home). As a student I start growing my programming skills since 2019. I am skilled in programming with Java, particularly in backend development. I have experience with desktop, mobile, and web applications. I primarily use the Spring framework and, when necessary, frontend templates for Java, such as Thymeleaf and Vaadin Flow. Other things I enjoy are using Linux OS for increased productivity in application development and AWS as a cloud platform for hosting. Everyday I'm learning something new and continuously improve my skills, even with very limited time.
+</p>
+<p>
+  My future goals include: Microservices, JWT token, Spring AI.
 </p>
 
 ## What I do

@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Martin Atanasov, a Java backend developer</h1>
-&nbsp;
 
-### How I started
+&nbsp;
+## How I started
 &nbsp;
 
 <p>
@@ -11,7 +11,8 @@
   My future goals include: Microservices, JWT token, Spring AI.
 </p>
 
-### What I do
+&nbsp;
+## What I do
 &nbsp;
 
 <p>
@@ -21,8 +22,8 @@
   I'm passionate about Java programming and constantly exploring backend technologies such as the Spring Framework. I enjoy building efficient and reliable systems, and I’m particularly interested in working with cloud platforms like AWS and developing in Linux environments.
 </p>
 
-
-### How I learn about the newest technologies and improve myself
+&nbsp;
+## How I learn about the newest technologies and improve myself
 &nbsp;
 
 <p>

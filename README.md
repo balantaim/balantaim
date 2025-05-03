@@ -2,7 +2,6 @@
 
 &nbsp;
 ## How I started
-&nbsp;
 
 <p>
   I have more than 10 year+ experience with hardware (fixing my PC at my home). As a student I start growing my programming skills since 2019. I am skilled in programming with Java, particularly in backend development. I have experience with desktop, mobile, and web applications. I primarily use the Spring framework and, when necessary, frontend templates for Java, such as Thymeleaf and Vaadin Flow. Other things I enjoy are using Linux OS for increased productivity in application development and AWS as a cloud platform for hosting. Everyday I'm learning something new and continuously improve my skills, even with very limited time.
@@ -13,7 +12,6 @@
 
 &nbsp;
 ## What I do
-&nbsp;
 
 <p>
   I started my career as a Mechanical Engineer, gaining over 3 years of hands-on experience in the field. Over time, I transitioned into the world of Quality Assurance (QA), where I currently work, focusing on test automation.
@@ -24,7 +22,6 @@
 
 &nbsp;
 ## How I learn about the newest technologies and improve myself
-&nbsp;
 
 <p>
   After completing my master's degree in Information Technology, I started practicing by solving tasks on the HackerRank website. After some time, I began watching tutorials on YouTube and reading various online guides. Through this type of learning, I realized that free resources are not always of high quality, so I started purchasing courses from the Udemy platform, making sure in advance that the instructor is a professional. 
